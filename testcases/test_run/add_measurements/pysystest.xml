@@ -2,7 +2,7 @@
 <pysystest type="auto" state="runnable">
     
   <description> 
-    <title>Create and Delete a test run</title>    
+    <title>Add measurements to a test run</title>    
     <purpose><![CDATA[
 ]]>
     </purpose>
