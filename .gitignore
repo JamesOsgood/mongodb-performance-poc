@@ -1,6 +1,10 @@
 # Settings
 default.json
 
+# Pysys artefacts
+/Output/
+*.pyc
+
 # Logs
 logs
 *.log
