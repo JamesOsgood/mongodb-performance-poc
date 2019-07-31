@@ -1,0 +1,11 @@
+{
+    "server": 
+    {
+      "port": 3334,
+      "logRequests": false,
+      "logQueries": false,
+      "logTimings": false,
+      "mongodb_url" : "mongodb+srv://<user>:<pwd>@rpi-sensor-data-ifxxs.mongodb.net/test?retryWrites=true&w=majority"
+    }
+}
+  

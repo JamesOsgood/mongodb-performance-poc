@@ -1,0 +1,27 @@
+{
+  "name": "data-collection-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesOsgood/mongodb-performance-poc.git"
+  },
+  "author": "James Osgood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesOsgood/mongodb-performance-poc/issues"
+  },
+  "homepage": "https://github.com/JamesOsgood/mongodb-performance-poc#readme",
+  "dependencies": {
+    "config": "^3.2.2",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "mongodb": "^3.3.0-beta2",
+    "statman-stopwatch": "^2.8.2"
+  }
+}
