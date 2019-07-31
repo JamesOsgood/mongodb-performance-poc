@@ -79,7 +79,7 @@ GET http://localhost:3334/test_run/Test_2019-07-31T12:08:46.130899
 Returns
 ```json
 {
-    "_id": "Test 1", 
+    "_id": "Test_2019-07-31T12:08:46.130899", 
     "last_modified": "2019-07-31T15:30:15.221Z", 
     "total_documents": [{"timestamp": "2019-07-31T16:30:14.284963", "value": 0}, 
                         {"timestamp": "2019-07-31T16:30:14.552173", "value": 20}, 
