@@ -5,7 +5,7 @@ Framework for collecting data around Performance PoCs
 
 The server is configured by copying 
 
-```config/server.js.tmpl -> config/server.js```
+```config/default.json.tmpl -> config/default.json```
 
 and updating server.js, in particular, update the mongodb connection string
 

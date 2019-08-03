@@ -97,7 +97,6 @@
 	-->
 
 	<path value="./src" relative="true" />
-	<path value="../../test-base/testing/src" relative="true" />
 	
 
 	<!-- 
