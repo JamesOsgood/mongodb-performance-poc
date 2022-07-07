@@ -20,7 +20,7 @@
     "config": "^3.2.2",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongodb": "^3.3.0-beta2",
     "statman-stopwatch": "^2.8.2"
   }
